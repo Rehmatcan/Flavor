@@ -53,39 +53,39 @@ The noise levels are manageable but not ideal.,Neutral
 The improvements in scheduling are minor but appreciated.,Neutral
 The software is running fine but lacks advanced features we expected.,Neutral
 The new network infrastructure meets our needs but doesn't offer significant improvements.,Neutral
-"The solar panels generate excellent energy output, but the monitoring system often provides inaccurate data.",Mixed
-"The panels are efficient and reliable, but replacement parts are too expensive and difficult to source.",Mixed
-"While the installation team was professional, the timeline was not met, causing project delays.",Mixed
-"The HVAC system cools the building well, but the noise levels are much higher than expected.",Mixed
-"The air quality improvement is noticeable, but the system consumes more energy than anticipated.",Mixed
-"The installation was smooth, but the system frequently breaks down under peak load.",Mixed
-"The project team communicated well, but the construction quality does not meet expectations.",Mixed
-"The safety measures on-site were robust, but the project ran over budget.",Mixed
-"The timeline was followed accurately, but the final structure lacks aesthetic appeal.",Mixed
-"The new transport system design is user-friendly, but the buses are often delayed during peak hours.",Mixed
-"Passenger comfort has improved, but the ticketing system is prone to technical issues.",Mixed
-"The rail network upgrade has reduced delays, but the maintenance cost has risen significantly.",Mixed
-"The software runs efficiently during normal operations, but it struggles with heavy user loads.",Mixed
-"The onboarding process was smooth, but the interface needs improvement for non-technical users.",Mixed
-"The new infrastructure is secure, but the downtime during implementation was disruptive.",Mixed
-The project started strong but faced delays later.,Mixed
+"The solar panels generate excellent energy output, but the monitoring system often provides inaccurate data.",neutral
+"The panels are efficient and reliable, but replacement parts are too expensive and difficult to source.",neutral
+"While the installation team was professional, the timeline was not met, causing project delays.",neutral
+"The HVAC system cools the building well, but the noise levels are much higher than expected.",neutral
+"The air quality improvement is noticeable, but the system consumes more energy than anticipated.",neutral
+"The installation was smooth, but the system frequently breaks down under peak load.",neutral
+"The project team communicated well, but the construction quality does not meet expectations.",neutral
+"The safety measures on-site were robust, but the project ran over budget.",neutral
+"The timeline was followed accurately, but the final structure lacks aesthetic appeal.",neutral
+"The new transport system design is user-friendly, but the buses are often delayed during peak hours.",neutral
+"Passenger comfort has improved, but the ticketing system is prone to technical issues.",neutral
+"The rail network upgrade has reduced delays, but the maintenance cost has risen significantly.",neutral
+"The software runs efficiently during normal operations, but it struggles with heavy user loads.",neutral
+"The onboarding process was smooth, but the interface needs improvement for non-technical users.",neutral
+"The new infrastructure is secure, but the downtime during implementation was disruptive.",neutral
+The project started strong but faced delays later.,neutral
 Communication from the team was poor.,Negative
 Project deliverables were completed ahead of schedule.,Positive
 The work done was satisfactory.,Neutral
 The team went above and beyond expectations.,Positive
 The project was completed as expected.,Neutral
-"Some goals were achieved, but others were not.",Mixed
+"Some goals were achieved, but others were not.",neutral
 The feedback provided was not considered.,Negative
 The quality of the work was below expectations.,Negative
 The team met the basic requirements.,Neutral
 The project deliverables were delayed.,Negative
-"The quality was excellent, but the timeline slipped.",Mixed
-The team was responsive but missed some key details.,Mixed
+"The quality was excellent, but the timeline slipped.",neutral
+The team was responsive but missed some key details.,neutral
 Communication was consistent.,Neutral
 Resource allocation was inadequate.,Negative
 The quality of the work was exceptional.,Positive
 No major issues occurred during the project.,Neutral
-"Communication was good, but deliverables were delayed.",Mixed
+"Communication was good, but deliverables were delayed.",neutral
 Resource management was outstanding.,Positive
 The team communicated effectively throughout.,Positive
 So there is no way for me to plug it in here in the US unless I go by a converter.,negative
@@ -3438,46 +3438,46 @@ Decentralized technologies such as blockchain have the potential to disrupt trad
 """The project is impactful, but not widely adopted.""",Neutral
 """The project is completed, but not without significant setbacks.""",Neutral
 """The project is delivered, but with limited user feedback.",Neutral
-"""The design is innovative, but difficult to implement.""",Mixed
-"""The code is efficient, but difficult to maintain.""",Mixed
-"""The testing process is thorough, but time-consuming and expensive.""",Mixed
-"""The documentation is comprehensive, but poorly organized.""",Mixed
-"""The project is on schedule, but exceeding the budget.""",Mixed
-"""The team is collaborative, but lacks clear communication channels.""",Mixed
-"""The risk assessment is accurate, but overly pessimistic.""",Mixed
-"""The budget is sufficient, but requires significant cost-cutting measures.""",Mixed
-"""The project deliverables are complete, but of varying quality.""",Mixed
-"""The technical solution is feasible, but requires significant compromises.""",Mixed
-"""The project timeline is realistic, but leaves little room for unexpected delays.""",Mixed
-"""The project scope is manageable, but lacks ambition.""",Mixed
-"""The communication plan is effective, but not consistently followed.""",Mixed
-"""The change management process is adequate, but not flexible enough.""",Mixed
-"""The quality assurance process is rigorous, but slows down development.""",Mixed
-"""The project is within budget, but with significant performance trade-offs.""",Mixed
-"""The project is on schedule, but with reduced functionality.""",Mixed
-"""The team is competent, but lacks the necessary expertise in certain areas.""",Mixed
-"""The project is successful, but with limited user adoption.""",Mixed
-"""The project is delivered on time, but with significant quality issues.""",Mixed
-"""The project meets the client's expectations, but not their long-term needs.""",Mixed
-"""The project is technically sound, but not user-friendly enough.""",Mixed
-"""The project is reliable, but not scalable.""",Mixed
-"""The design is innovative, but requires significant rework.""",Mixed
-"""The code is efficient, but prone to unexpected errors.""",Mixed
-"""The testing process is thorough, but delays project timelines significantly.""",Mixed
-"""The documentation is comprehensive, but lacks clear examples.""",Mixed
-"""The project is on schedule, but with a compromised scope.""",Mixed
-"""The team is collaborative, but communication breakdowns occur frequently.""",Mixed
-"""The risk assessment is accurate, but does not adequately address emerging threats.""",Mixed
-"""The budget is sufficient, but requires constant adjustments.""",Mixed
-"""The project deliverables are complete, but not all meet the required quality standards.""",Mixed
-"""The technical solution is feasible, but relies on unproven technologies.""",Mixed
-"""The project timeline is realistic, but leaves no room for unforeseen challenges.""",Mixed
-"""The project scope is manageable, but lacks clear objectives.""",Mixed
-"""The communication plan is effective, but not always followed by all stakeholders.""",Mixed
-"""The change management process is adequate, but not responsive enough to rapid changes.""",Mixed
-"""The quality assurance process is rigorous, but hinders team agility.""",Mixed
-"""The project is within budget, but with significant performance limitations.""",Mixed
-"""The project is on schedule, but with reduced functionality and features.""",Mixed
-"""The team is competent, but lacking in leadership and direction.""",Mixed
-"""The project is successful, but with limited user engagement.""",Mixed
-"""The project is delivered on time, but with significant technical debt.""",Mixed
+"""The design is innovative, but difficult to implement.""",neutral
+"""The code is efficient, but difficult to maintain.""",neutral
+"""The testing process is thorough, but time-consuming and expensive.""",neutral
+"""The documentation is comprehensive, but poorly organized.""",neutral
+"""The project is on schedule, but exceeding the budget.""",neutral
+"""The team is collaborative, but lacks clear communication channels.""",neutral
+"""The risk assessment is accurate, but overly pessimistic.""",neutral
+"""The budget is sufficient, but requires significant cost-cutting measures.""",neutral
+"""The project deliverables are complete, but of varying quality.""",neutral
+"""The technical solution is feasible, but requires significant compromises.""",neutral
+"""The project timeline is realistic, but leaves little room for unexpected delays.""",neutral
+"""The project scope is manageable, but lacks ambition.""",neutral
+"""The communication plan is effective, but not consistently followed.""",neutral
+"""The change management process is adequate, but not flexible enough.""",neutral
+"""The quality assurance process is rigorous, but slows down development.""",neutral
+"""The project is within budget, but with significant performance trade-offs.""",neutral
+"""The project is on schedule, but with reduced functionality.""",neutral
+"""The team is competent, but lacks the necessary expertise in certain areas.""",neutral
+"""The project is successful, but with limited user adoption.""",neutral
+"""The project is delivered on time, but with significant quality issues.""",neutral
+"""The project meets the client's expectations, but not their long-term needs.""",neutral
+"""The project is technically sound, but not user-friendly enough.""",neutral
+"""The project is reliable, but not scalable.""",neutral
+"""The design is innovative, but requires significant rework.""",neutral
+"""The code is efficient, but prone to unexpected errors.""",neutral
+"""The testing process is thorough, but delays project timelines significantly.""",neutral
+"""The documentation is comprehensive, but lacks clear examples.""",neutral
+"""The project is on schedule, but with a compromised scope.""",neutral
+"""The team is collaborative, but communication breakdowns occur frequently.""",neutral
+"""The risk assessment is accurate, but does not adequately address emerging threats.""",neutral
+"""The budget is sufficient, but requires constant adjustments.""",neutral
+"""The project deliverables are complete, but not all meet the required quality standards.""",neutral
+"""The technical solution is feasible, but relies on unproven technologies.""",neutral
+"""The project timeline is realistic, but leaves no room for unforeseen challenges.""",neutral
+"""The project scope is manageable, but lacks clear objectives.""",neutral
+"""The communication plan is effective, but not always followed by all stakeholders.""",neutral
+"""The change management process is adequate, but not responsive enough to rapid changes.""",neutral
+"""The quality assurance process is rigorous, but hinders team agility.""",neutral
+"""The project is within budget, but with significant performance limitations.""",neutral
+"""The project is on schedule, but with reduced functionality and features.""",neutral
+"""The team is competent, but lacking in leadership and direction.""",neutral
+"""The project is successful, but with limited user engagement.""",neutral
+"""The project is delivered on time, but with significant technical debt.""",neutral
